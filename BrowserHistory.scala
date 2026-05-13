@@ -16,4 +16,24 @@ class BrowserHistory {
 
         current = newPage
     }
+
+    def back(): Unit = {
+
+        if(current != null && current.prev != null) {
+            current = current.prev
+        }
+        else {
+            println("No hay pagina anterior")
+        }
+    }
+
+    def forward(): Unit = {
+
+        if(current != null && current.next != null) {
+            current = current.next
+        }
+        else {
+            println("No hay pagina siguiente")
+        }
+    }
 }
