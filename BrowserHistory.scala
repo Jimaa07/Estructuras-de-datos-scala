@@ -36,4 +36,14 @@ class BrowserHistory {
             println("No hay pagina siguiente")
         }
     }
+
+    def showCurrentPage(): Unit = {
+
+        if(current != null) {
+            println("Pagina actual: " + current.url)
+        }
+        else {
+            println("No hay paginas")
+        }
+    }
 }
