@@ -140,3 +140,63 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Unsupported request
 2026.05.13 12:00:47 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
 may 13, 2026 12:01:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.05.13 12:21:11 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:21:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:11 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/PageNode.scala
+2026.05.13 12:21:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:13 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:21:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:13 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/PageNode.scala
+2026.05.13 12:21:14 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:21:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:14 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/PageNode.scala
+2026.05.13 12:21:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:17 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:21:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:21:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:27 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala
+2026.05.13 12:23:27 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:27 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/BrowserHistory.scala
+2026.05.13 12:23:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:30 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala
+2026.05.13 12:23:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:57 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala
+2026.05.13 12:23:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:57 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
+2026.05.13 12:23:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:58 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:23:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:58 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala
+2026.05.13 12:23:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:23:59 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
+2026.05.13 12:24:00 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:00 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala
+2026.05.13 12:24:00 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:00 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:00 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:18 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala
+2026.05.13 12:24:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\PageNode.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:19 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala
+2026.05.13 12:24:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:19 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
+2026.05.13 12:24:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:19 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala
+2026.05.13 12:24:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:24:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
