@@ -125,3 +125,18 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Unsupported request
 2026.05.13 12:00:16 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/BrowserHistori.scala
 2026.05.13 12:00:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistori.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.05.13 12:00:16 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/BrowserHistori.scala
+2026.05.13 12:00:32 INFO  no build target found for c:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistori.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:32 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala
+2026.05.13 12:00:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:32 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/BrowserHistory.scala
+2026.05.13 12:00:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\BrowserHistory.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:32 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/BrowserHistory.scala
+2026.05.13 12:00:47 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala
+2026.05.13 12:00:47 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:47 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:47 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
+2026.05.13 12:00:47 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Estructuras-de-datos-scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.13 12:00:47 WARN  Could not find semantic tokens for: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Estructuras-de-datos-scala/Main.scala
+may 13, 2026 12:01:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
